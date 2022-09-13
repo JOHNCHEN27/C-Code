@@ -1,0 +1,10 @@
+#pragma once
+#include"work.h"
+class Boss :public Worker
+{
+public:
+	Boss(int id, string name, int did);
+	virtual void showInfo();
+	//获取岗位名称
+	virtual string getDeptName();
+};
