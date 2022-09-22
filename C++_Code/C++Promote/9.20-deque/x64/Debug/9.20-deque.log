@@ -1,0 +1,3 @@
+﻿  deque.cpp
+D:\Blog\C++\C++_Code\C++Promote\9.20-deque\deque.cpp(563,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  9.20-deque.vcxproj -> D:\Blog\C++\C++_Code\C++Promote\9.20-deque\x64\Debug\9.20-deque.exe
